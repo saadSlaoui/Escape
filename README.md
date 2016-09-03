@@ -8,7 +8,5 @@ The projects included on this repository are:
 - Worldcloud generator combining web scraping and text mining techniques to summarize reviews about a given event.
 
 
-, program development for itinerary generation and implementation of a clustering algorithm to build customized event suggestions. Front-end development is still ongoing.
-
 Authors: Saad Slaoui, Graham Place, Maggie Lou, Anushka Makhija, Gaurav Kumar, Aarman Shah.
 Note: Only the files to which I made a significant contribution are included in this repository.
