@@ -1,0 +1,49 @@
+"","userid","username","age","sex","homecountry","city","state","mindset","money","foodie","tourist","tablemountain","longstreet","lionshead","biscuitmill","mamaafrica","stdcluster","aggcluster"
+"1",1,"Oyebi, Tuvshinbayar",20,"Male","United States","Scarsdale","NY","Go on Adventures","2","3","2",4,3,5,5,2,2,1
+"2",2,"Rodriguez, Mercedes",18,"Female","United States","Bridgewater","NJ","Explore the city","3","3","2",2,4,5,4,5,1,2
+"3",3,"Skaggs, Andre",20,"Female","United States","Atlanta","GA","Go on Adventures","3","3","2",4,3,5,5,5,1,2
+"4",4,"Le, Calvin",19,"Female","United States","Denver","CO","Go on Adventures","2","3","1",2,5,5,5,5,4,2
+"5",5,"Duhe, Kaitlin",20,"Male","United Arab Emirates","Dubai",NA,"Explore the city","2","2","3",4,4,3,5,3,4,3
+"6",6,"Duran, Kelly",18,"Female","United States","Ames","IA","Explore the city","3","3","2",3,4,5,5,5,1,2
+"7",7,"Duba, Daniel",22,"Male","United States","Claremont","CA","Explore the city","3","3","2",5,2,5,5,5,4,2
+"8",8,"Sumbunu, Casey",20,"Male","United States","Monterey","CA","Explore the city","1","3","2",3,3,4,4,4,3,3
+"9",9,"Romero, Alyssa",20,"Male","United States","New York","NY","Go on Adventures","3","3","2",2,1,5,4,3,3,1
+"10",10,"Casillas, Shadae Lisette",22,"Male","United States","Atlanta","GA","Explore the city","3","3","2",3,4,4,5,4,1,2
+"11",11,"West, Masooma",18,"Male","Morocco","Rabat",NA,"Go on Adventures","2","2","1",4,3,5,4,4,2,1
+"12",12,"Gonzales, Cheyenne",20,"Female","South Africa","Eastern Cape",NA,"Explore the city","3","2","2",4,4,1,4,4,4,3
+"13",13,"Flores, Jasmine",22,"Female","Canada","Vancouver","BC","Explore the city","3","3","3",4,4,5,5,3,2,1
+"14",14,"Velasquez, Kara",21,"Male","United States","New York","NY","Explore the city","2","3","2",4,4,5,5,4,3,3
+"15",15,"Rowe, Diana",21,"Female","Jordan","Amman",NA,"Go on Adventures","2","3","2",4,4,4,4,5,1,2
+"16",16,"Lopez, Sarah",19,"Female","United States","Houghton Lake","MI","Go on Adventures","1","2","3",2,4,5,5,1,4,3
+"17",17,"Kim, Antonio",19,"Male","United States","Fairfax","VA","Go on Adventures","2","2","1",3,1,4,3,3,4,3
+"18",18,"Maes, Annie",20,"Male","United States","Rye","NY","Go on Adventures","2","3","1",3,3,4,3,3,2,1
+"19",19,"Goodnight, April",20,"Male","United States","Tucson","AZ","Go on Adventures","2","3","2",4,1,5,3,4,2,1
+"20",20,"Guerrero, Phillip",22,"Male","United States","Raleigh","NC","Explore the city","2","2","2",4,2,5,5,4,2,1
+"21",21,"Knight, Alexander",20,"Female","United States","Los Angeles","CA","Go on Adventures","2","3","1",3,4,5,4,5,3,3
+"22",22,"Ruiz, Andrew",21,"Male","United States","Atlanta","GA","Explore the city","3","3","2",5,5,5,3,4,1,2
+"23",23,"Moua, Matthew",20,"Female","United States","Seattle","WA","Go on Adventures","2","3","2",4,2,5,3,4,2,1
+"24",24,"Barnett, Daniel",21,"Female","United States","Los Angeles","CA","Go on Adventures","2","3","2",3,2,4,3,1,3,3
+"25",25,"Salas, Edward",21,"Male","United States","Miami","FL","Go on Adventures","2","2","2",3,4,4,3,3,3,3
+"26",26,"Decker, Brianna",19,"Female","Philippines","Manila",NA,"Explore the city","3","3","3",5,4,5,4,4,3,3
+"27",27,"Hernandez Renteria, Diedra",19,"Male","United States","bridgewater","NJ","Explore the city","2","3","2",2,4,4,4,3,1,2
+"28",28,"Trujillo, Bree",20,"Male","United States","Port Huron","MI","Go on Adventures","2","3","2",3,2,4,5,4,2,1
+"29",29,"Bueno, Krystal",20,"Female","South Africa","Cape Town",NA,"Go on Adventures","2","3","2",3,3,4,5,4,4,2
+"30",30,"Hinojos, Kassandra",20,"Female","United States","Winchester","VA","Go on Adventures","2","3","2",1,5,5,5,3,2,1
+"31",31,"Sharma, Dmitri",21,"Male","Korea","Seoul",NA,"Explore the city","3","3","3",5,3,5,5,4,2,1
+"32",32,"Rahat, Carlos",23,"Male","Canada","Toronto","CA","Go on Adventures","2","3","2",3,3,5,5,5,2,1
+"33",33,"Watson, Heriberto",19,"Female","United States","Denver","CO","Explore the city","2","3","2",3,4,5,5,3,4,2
+"34",34,"Diakite, Ernesto",20,"Male","United States","Atherton","CA","Explore the city","2","3","2",3,4,4,5,3,1,2
+"35",35,"Khandaker, Devin",32,"Female","South  Africa","Durban",NA,"Explore the city","2","3","1",3,1,3,3,2,4,4
+"36",36,"Ortega, Jagger",20,"Male","India","Hyderabad","AP","Go on Adventures","3","3","2",3,5,5,4,3,3,3
+"37",37,"Gleason, Delaney",21,"Male","Bangladesh","Los Angeles","CA","Go on Adventures","2","3","3",4,3,5,4,4,3,3
+"38",38,"Wood, Ricky",20,"Female","United States","Vienna","VA","Go on Adventures","2","3","1",3,3,4,4,3,2,1
+"39",39,"Gonzales, Karan",19,"Male","United States","Houston","TX","Go on Adventures","3","3","1",1,5,4,5,5,3,3
+"40",40,"Varkhedi, Michael",19,"Female","United States","Boulder","CO","Go on Adventures","3","3","1",3,2,5,3,3,1,2
+"41",41,"Summers, Thomas",20,"Male","United States","New York","NY","Go on Adventures","3","3","2",2,4,5,5,2,3,1
+"42",42,"Farrer, Kendyl",19,"Female","United States","Palo Alto","CA","Go on Adventures","3","3","2",4,5,5,5,3,3,1
+"43",43,"Standish, Joseph",20,"Female","United States","Boston","MA","Explore the city","2","3","2",4,2,5,3,3,1,2
+"44",44,"Rojas, Linda",18,"Male","South Africa","Johannesburg",NA,"Explore the city","3","2","2",3,3,5,4,4,3,3
+"45",45,"Xiong, Kentrall Cornell",18,"Male","United States","Hungtington Woods","MI","Explore the city","2","3","2",3,4,3,5,3,3,3
+"46",46,"Kahsay, Jonathan",19,"Female","United States","Denver","CO","Go on Adventures","3","3","2",3,3,5,5,5,4,2
+"47",47,"Moore, Cristian",20,"Male","United States","Fremont","CA","Go on Adventures","3","2","2",4,4,5,4,5,4,3
+"48",48,"Lee, Wen Rui",36,"Female","South Africa","Port Elizabeth",NA,"Explore the city","2","3","3",5,3,4,5,5,2,4
